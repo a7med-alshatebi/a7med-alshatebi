@@ -27,7 +27,7 @@
   <li>🌱 Exploring: Cloud, AI, and Next-gen web frameworks</li>
   <li>⚡ Favorite stack: <strong>React, TypeScript, Node.js, Python</strong></li>
   <li>🎯 Focus: Clean code • Automation • Community</li>
-  <li>🌍 Languages: English, Arabic</li>
+  <li>🌍 Languages: English, Arabic , Turkish</li>
 </ul>
 
 ---
