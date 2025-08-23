@@ -1,8 +1,5 @@
 <!-- Banner & Minimal Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/796330009?v=4" width="110" alt="Ahmed Alshatebi profile" style="border-radius:50%;" />
-</p>
-<h1 align="center" style="border-bottom:none;">I am Ahmed Alshatebi</h1>
+<h1 align="center" style="border-bottom:none;"> AHMED ABDULNASSER</h1>
 <p align="center"><strong>Developer • Tech Enthusiast • Problem Solver</strong></p>
 
 <p align="center">
