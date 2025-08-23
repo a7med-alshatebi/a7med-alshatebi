@@ -38,11 +38,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,c,java,html,css,vercel,git,github,vscode,linux" alt="Tech stack icons" />
 </p>
 
----
-
-
-
----
 
 ## 📈 GitHub Stats
 
