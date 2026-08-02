@@ -42,7 +42,7 @@
 
 ### 🔥 Featured Projects
 
-<a href="https://portfolio-nextjs-gamma-one.vercel.app/">
+<a href="https://personal-link-in-bio-page.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
 </a>
 <a href="https://github.com/a7med-alshatebi/cool-tool">
