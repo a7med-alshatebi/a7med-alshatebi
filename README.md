@@ -17,6 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=a7med-alshatebi&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
 </p>
 ---
+---
 ## 👋 About Me
 <p align="center">
   <em>Building digital experiences, sharing knowledge, and always exploring new tech.</em>
