@@ -1,85 +1,65 @@
-<h1 align="center">Ahmed Abdulnasser</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Developer+%E2%80%A2+Tech+Enthusiast;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Ahmed+Abdulnasser;Developer+%E2%80%A2+Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/a7med-alshatebi">
-    <img src="https://img.shields.io/github/followers/a7med-alshatebi?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=1a1a2e&labelColor=1a1a2e" alt="Follow" />
+## 🖐️ About Me:
+
+- 🌱 I'm currently exploring **Cloud, AI, and next-gen web frameworks**
+- ⚡ My favorite stack is **React, TypeScript, Node.js, C++**
+- 🎯 I'm focused on **Clean code • Automation • Community**
+- 🌍 I speak **English, Arabic, and Turkish**
+- 💬 Ask me about web development, automation, or deploying on Vercel
+
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/a7med-alshatebi-1a3841380" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:a7med.alshatibi22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/a7med-alshatebi-1a3841380">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7med-alshatebi&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
-</p>
-
-<br/>
-
-## 👋 About Me
-
-<p align="center"><em>Building digital experiences, sharing knowledge, and always exploring new tech.</em></p>
-
-- 🌱 **Exploring:** Cloud, AI, and next-gen web frameworks
-- ⚡ **Favorite stack:** React, TypeScript, Node.js, C++
-- 🎯 **Focus:** Clean code • Automation • Community
-- 🌍 **Languages:** English, Arabic, Turkish
-
-<br/>
-
----
-
-## 🚀 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,c,java,html,css,vercel,git,github,vscode,linux" alt="Tech stack icons" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://personal-link-in-bio-page.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/a7med-alshatebi/cool-tool">
-    <img src="https://img.shields.io/badge/Open%20Source-Tool-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="Cool Tool" />
-  </a>
-  <a href="https://github.com/a7med-alshatebi/learning-resources">
-    <img src="https://img.shields.io/badge/Learning-Resources-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1a2e" alt="Learning Resources" />
+  <a href="https://github.com/a7med-alshatebi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center"><em>✨ Check out my pinned repositories for more!</em></p>
+## 💻 Tech Stack:
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <br/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <br/>
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=a7med-alshatebi&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7med-alshatebi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-alshatebi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7med-alshatebi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-alshatebi&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med-alshatebi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## ✨ Fun Facts
-
-- 💬 Ask me about web development, automation, or deploying on Vercel
-- 🧑‍💻 Open source contributor, always happy to help
-- 🚀 I love building tools that make life easier
-
----
-
-<p align="center"><strong>Thanks for visiting! ⭐</strong></p>
