@@ -1,8 +1,6 @@
+
+
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=AHMED+ABDULNASSER;Web+Developer+%E2%80%A2+Problem+Solver" alt="Typing SVG" /> </p>
-
-
-
-
 
 
 
@@ -20,9 +18,7 @@
   <a href="https://www.linkedin.com/in/a7med-alshatebi-1a3841380" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:a7med.alshatibi22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  
   
 
 ## 💻 Tech Stack:
