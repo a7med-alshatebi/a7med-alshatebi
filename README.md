@@ -13,33 +13,21 @@
   </a>
 </p>
 
-<br/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a7med-alshatebi&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
+</p>
+---
 ## 👋 About Me
-
-<p align="center"><em>Building digital experiences, sharing knowledge, and always exploring new tech.</em></p>
-
-<table align="center">
-  <tr>
-    <td>🌱</td>
-    <td><strong>Exploring:</strong> Cloud, AI, and next-gen web frameworks</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Favorite stack:</strong> React, TypeScript, Node.js, C++</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td><strong>Focus:</strong> Clean code • Automation • Community</td>
-  </tr>
-  <tr>
-    <td>🌍</td>
-    <td><strong>Languages:</strong> English, Arabic, Turkish</td>
-  </tr>
-</table>
-
-<br/>
-
+<p align="center">
+  <em>Building digital experiences, sharing knowledge, and always exploring new tech.</em>
+</p>
+<ul align="center">
+  <li>🌱 Exploring: Cloud, AI, and Next-gen web frameworks</li>
+  <li>⚡ Favorite stack: <strong>React, TypeScript, Node.js, C++</strong></li>
+  <li>🎯 Focus: Clean code • Automation • Community</li>
+  <li>🌍 Languages: English, Arabic , Turkish</li>
+</ul>
+---
 ---
 
 ## 🚀 Tech Stack & Tools
