@@ -35,23 +35,28 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,c,java,html,css,vercel,git,github,vscode,linux" alt="Tech stack icons" />
 </p>
 
+
 ---
 
-## 🔥 Featured Projects
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/a7med-alshatebi/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/a7med-alshatebi/cool-tool">
-    <img src="https://img.shields.io/badge/OpenSource-Tool-green?style=for-the-badge&logo=github&logoColor=white" alt="Cool Tool" />
-  </a>
-  <a href="https://github.com/a7med-alshatebi/learning-resources">
-    <img src="https://img.shields.io/badge/Learning-Resources-orange?style=for-the-badge&logo=book&logoColor=white" alt="Learning Resources" />
-  </a>
-</p>
-<p align="center"><em>Check out my pinned repositories for more!</em></p>
+### 🔥 Featured Projects
 
+<a href="https://github.com/a7med-alshatebi/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
+</a>
+<a href="https://github.com/a7med-alshatebi/cool-tool">
+  <img src="https://img.shields.io/badge/Open%20Source-Tool-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="Cool Tool" />
+</a>
+<a href="https://github.com/a7med-alshatebi/learning-resources">
+  <img src="https://img.shields.io/badge/Learning-Resources-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1a2e" alt="Learning Resources" />
+</a>
+
+<br/>
+
+*✨ Check out my pinned repositories for more!*
+
+</div>
 ---
 
 ## ✨ Fun Facts
