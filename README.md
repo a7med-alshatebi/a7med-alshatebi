@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Ahmed+Abdulnasser;Developer+%E2%80%A2+Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Ahmed+Abdulnasser;Developer+%E2%80%A2+Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ## 🖐️ About Me:
@@ -51,15 +51,4 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=a7med-alshatebi&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7med-alshatebi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-alshatebi&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
