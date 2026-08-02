@@ -1,31 +1,44 @@
-<!-- Banner & Minimal Header -->
-<h1 align="center" style="border-bottom:none;"> AHMED ABDULNASSER</h1>
+<h1 align="center">Ahmed Abdulnasser</h1>
 <p align="center"><strong>Developer • Tech Enthusiast • Problem Solver</strong></p>
 
 <p align="center">
   <a href="https://github.com/a7med-alshatebi">
-    <img src="https://img.shields.io/github/followers/a7med-alshatebi?label=Follow&style=social"  alt="Follow" />
+    <img src="https://img.shields.io/github/followers/a7med-alshatebi?label=Follow&style=social" alt="Follow" />
   </a>
   <a href="mailto:a7med.alshatibi22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/a7med-alshatebi-1a3841380">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"  alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
+<br/>
 
 ## 👋 About Me
-<p align="center">
-  <em>Building digital experiences, sharing knowledge, and always exploring new tech.</em>
-</p>
-<ul align="center">
-  <li>🌱 Exploring: Cloud, AI, and Next-gen web frameworks</li>
-  <li>⚡ Favorite stack: <strong>React, TypeScript, Node.js, C++</strong></li>
-  <li>🎯 Focus: Clean code • Automation • Community</li>
-  <li>🌍 Languages: English, Arabic , Turkish</li>
-</ul>
+
+<p align="center"><em>Building digital experiences, sharing knowledge, and always exploring new tech.</em></p>
+
+<table align="center">
+  <tr>
+    <td>🌱</td>
+    <td><strong>Exploring:</strong> Cloud, AI, and next-gen web frameworks</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><strong>Favorite stack:</strong> React, TypeScript, Node.js, C++</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><strong>Focus:</strong> Clean code • Automation • Community</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td><strong>Languages:</strong> English, Arabic, Turkish</td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
