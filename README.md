@@ -35,15 +35,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,c,java,html,css,vercel,git,github,vscode,linux" alt="Tech stack icons" />
 </p>
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7med-alshatebi&show_icons=true&theme=tokyonight&hide_title=true" height="140" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-alshatebi&theme=tokyonight" height="140" alt="Streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med-alshatebi&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
 ---
 
 ## 🔥 Featured Projects
