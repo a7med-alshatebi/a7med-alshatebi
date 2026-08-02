@@ -26,24 +26,10 @@
 
 <p align="center"><em>Building digital experiences, sharing knowledge, and always exploring new tech.</em></p>
 
-<table align="center">
-  <tr>
-    <td>🌱</td>
-    <td><strong>Exploring:</strong> Cloud, AI, and next-gen web frameworks</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Favorite stack:</strong> React, TypeScript, Node.js, C++</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td><strong>Focus:</strong> Clean code • Automation • Community</td>
-  </tr>
-  <tr>
-    <td>🌍</td>
-    <td><strong>Languages:</strong> English, Arabic, Turkish</td>
-  </tr>
-</table>
+- 🌱 **Exploring:** Cloud, AI, and next-gen web frameworks
+- ⚡ **Favorite stack:** React, TypeScript, Node.js, C++
+- 🎯 **Focus:** Clean code • Automation • Community
+- 🌍 **Languages:** English, Arabic, Turkish
 
 <br/>
 
@@ -90,20 +76,9 @@
 
 ## ✨ Fun Facts
 
-<table align="center">
-  <tr>
-    <td>💬</td>
-    <td>Ask me about web development, automation, or deploying on Vercel</td>
-  </tr>
-  <tr>
-    <td>🧑‍💻</td>
-    <td>Open source contributor, always happy to help</td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td>I love building tools that make life easier</td>
-  </tr>
-</table>
+- 💬 Ask me about web development, automation, or deploying on Vercel
+- 🧑‍💻 Open source contributor, always happy to help
+- 🚀 I love building tools that make life easier
 
 ---
 
