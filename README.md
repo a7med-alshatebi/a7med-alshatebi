@@ -1,6 +1,7 @@
 
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=AHMED+ABDULNASSER;Web+Developer+%E2%80%A2+Pro[...] 
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=AHMED+ABDULNASSER;Web+Developer+%E2%80%A2+Problem+Solver" alt="Typing SVG" /> </p>
+
 
 
 ## 🖐️ About Me:
