@@ -1,7 +1,6 @@
 
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=AHMED+ABDULNASSER;Web+Developer+%E2%80%A2+Problem+Solver" alt="Typing SVG" /> </p>
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=AHMED+ABDULNASSER;Web+Developer+%E2%80%A2+Pro[...] 
 
 
 ## 🖐️ About Me:
@@ -39,6 +38,7 @@
   <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/claude-000000.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <br/>
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
